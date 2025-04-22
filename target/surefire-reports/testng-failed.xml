@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="com.vyasa.tests.HomePageTests">
+        <methods>
+          <include name="register"/>
+          <include name="verifyFirstBookTitle"/>
+          <include name="verifyNewArrivalsDisplayed"/>
+          <include name="setupExtentEnv"/>
+          <include name="Setup"/>
+          <include name="verifyHomePageTitle"/>
+          <include name="verifySecondBookTitle"/>
+          <include name="tearDown"/>
+          <include name="verifyThrirdBookTitle"/>
+          <include name="browserTeardown"/>
+          <include name="cleanup"/>
+          <include name="initDriver"/>
+        </methods>
+      </class> <!-- com.vyasa.tests.HomePageTests -->
+      <class name="com.vyasa.tests.DataDrivenTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="register"/>
+          <include name="setupExtentEnv"/>
+          <include name="tearDown"/>
+          <include name="loginform"/>
+          <include name="browserTeardown"/>
+          <include name="cleanup"/>
+          <include name="initDriver"/>
+        </methods>
+      </class> <!-- com.vyasa.tests.DataDrivenTest -->
+      <class name="com.vyasa.tests.MyAccountsPageTests">
+        <methods>
+          <include name="register"/>
+          <include name="verifyloginToMyAccount"/>
+          <include name="Setup"/>
+          <include name="setupExtentEnv"/>
+          <include name="verfiyLogoutToMyAccount"/>
+          <include name="tearDown"/>
+          <include name="browserTeardown"/>
+          <include name="cleanup"/>
+          <include name="initDriver"/>
+        </methods>
+      </class> <!-- com.vyasa.tests.MyAccountsPageTests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,171 @@
+2022-10-09 15:37:42,632 INFO [main] TestBase:70 -chrome browser opened
+2022-10-09 15:37:43,844 INFO [main] TestBase:92 -extent report set
+2022-10-09 15:38:05,463 INFO [main] TestBase:29 - verifyHomePageTitle.......Pass
+2022-10-09 15:38:09,568 INFO [main] TestBase:34 -verifyloginToMyAccount............Pass
+2022-10-09 15:38:11,248 INFO [main] TestBase:44 -verfiyLogoutToMyAccount............Pass
+2022-10-09 15:38:12,786 INFO [main] TestBase:36 - verifyNewArrivalsDisplayed.......Pass
+2022-10-09 15:38:14,179 INFO [main] TestBase:44 - verifyFirstBookTitle.......Pass
+2022-10-09 15:38:15,631 INFO [main] TestBase:52 - verifySecondBookTitle.......pass
+2022-10-09 15:38:17,005 INFO [main] TestBase:60 -verifyThrirdBookTitle............Pass
+2022-10-09 15:41:45,673 INFO [main] TestBase:70 -chrome browser opened
+2022-10-09 15:41:46,691 INFO [main] TestBase:92 -extent report set
+2022-10-09 15:42:01,009 INFO [main] TestBase:29 - verifyHomePageTitle.......Pass
+2022-10-09 15:42:04,683 INFO [main] TestBase:34 -verifyloginToMyAccount............Pass
+2022-10-09 15:42:06,424 INFO [main] TestBase:44 -verfiyLogoutToMyAccount............Pass
+2022-10-09 15:42:08,184 INFO [main] TestBase:36 - verifyNewArrivalsDisplayed.......Pass
+2022-10-09 15:42:09,769 INFO [main] TestBase:44 - verifyFirstBookTitle.......Pass
+2022-10-09 15:42:11,616 INFO [main] TestBase:52 - verifySecondBookTitle.......pass
+2022-10-09 15:42:13,118 INFO [main] TestBase:60 -verifyThrirdBookTitle............Pass
+2022-10-09 15:45:19,865 INFO [main] TestBase:70 -chrome browser opened
+2022-10-09 15:45:20,731 INFO [main] TestBase:92 -extent report set
+2022-10-09 15:45:36,090 INFO [main] TestBase:29 - verifyHomePageTitle.......Pass
+2022-10-09 15:45:39,261 INFO [main] TestBase:34 -verifyloginToMyAccount............Pass
+2022-10-09 15:45:40,943 INFO [main] TestBase:44 -verfiyLogoutToMyAccount............Pass
+2022-10-09 15:45:42,429 INFO [main] TestBase:36 - verifyNewArrivalsDisplayed.......Pass
+2022-10-09 15:45:43,749 INFO [main] TestBase:44 - verifyFirstBookTitle.......Pass
+2022-10-09 15:45:44,937 INFO [main] TestBase:52 - verifySecondBookTitle.......pass
+2022-10-09 15:45:46,095 INFO [main] TestBase:60 -verifyThrirdBookTitle............Pass
+2022-10-09 15:49:08,953 INFO [main] TestBase:70 -chrome browser opened
+2022-10-09 15:49:09,742 INFO [main] TestBase:92 -extent report set
+2022-10-09 15:49:23,749 INFO [main] TestBase:29 - verifyHomePageTitle.......Pass
+2022-10-09 15:49:31,082 INFO [main] TestBase:34 -verifyloginToMyAccount............Pass
+2022-10-09 15:49:33,447 INFO [main] TestBase:44 -verfiyLogoutToMyAccount............Pass
+2022-10-09 15:49:36,038 INFO [main] TestBase:36 - verifyNewArrivalsDisplayed.......Pass
+2022-10-09 15:49:39,453 INFO [main] TestBase:44 - verifyFirstBookTitle.......Pass
+2022-10-09 15:49:42,661 INFO [main] TestBase:52 - verifySecondBookTitle.......pass
+2022-10-09 15:49:44,967 INFO [main] TestBase:60 -verifyThrirdBookTitle............Pass
+2022-10-09 15:54:25,612 INFO [main] TestBase:70 -chrome browser opened
+2022-10-09 15:54:26,487 INFO [main] TestBase:92 -extent report set
+2022-10-09 15:54:43,874 INFO [main] TestBase:29 - verifyHomePageTitle.......Pass
+2022-10-09 15:54:48,745 INFO [main] TestBase:34 -verifyloginToMyAccount............Pass
+2022-10-09 15:54:51,110 INFO [main] TestBase:44 -verfiyLogoutToMyAccount............Pass
+2022-10-09 15:54:52,848 INFO [main] TestBase:36 - verifyNewArrivalsDisplayed.......Pass
+2022-10-09 15:54:54,481 INFO [main] TestBase:44 - verifyFirstBookTitle.......Pass
+2022-10-09 15:54:55,821 INFO [main] TestBase:52 - verifySecondBookTitle.......pass
+2022-10-09 15:54:57,075 INFO [main] TestBase:60 -verifyThrirdBookTitle............Pass
+2022-10-09 19:45:20,147 INFO [main] TestBase:70 -chrome browser opened
+2022-10-09 19:45:21,914 INFO [main] TestBase:92 -extent report set
+2022-10-09 19:47:32,939 INFO [main] TestBase:70 -chrome browser opened
+2022-10-09 19:47:34,557 INFO [main] TestBase:92 -extent report set
+2022-10-09 19:48:16,536 INFO [main] TestBase:29 - verifyHomePageTitle.......Pass
+2022-10-09 19:48:22,473 INFO [main] TestBase:34 -verifyloginToMyAccount............Pass
+2022-10-09 19:48:24,281 INFO [main] TestBase:44 -verfiyLogoutToMyAccount............Pass
+2022-10-09 19:48:25,714 INFO [main] TestBase:36 - verifyNewArrivalsDisplayed.......Pass
+2022-10-09 19:48:28,550 INFO [main] TestBase:44 - verifyFirstBookTitle.......Pass
+2022-10-09 19:48:31,759 INFO [main] TestBase:52 - verifySecondBookTitle.......pass
+2022-10-09 19:48:33,034 INFO [main] TestBase:60 -verifyThrirdBookTitle............Pass
+2022-10-09 21:37:36,529 INFO [main] TestBase:70 -chrome browser opened
+2022-10-09 21:37:38,145 INFO [main] TestBase:92 -extent report set
+2022-10-10 18:18:49,249 INFO [main] TestBase:70 -chrome browser opened
+2022-10-10 18:18:50,227 INFO [main] TestBase:92 -extent report set
+2022-10-10 18:19:16,814 INFO [main] TestBase:29 - verifyHomePageTitle.......Pass
+2022-10-10 18:19:20,933 INFO [main] TestBase:34 -verifyloginToMyAccount............Pass
+2022-10-10 18:19:23,541 INFO [main] TestBase:44 -verfiyLogoutToMyAccount............Pass
+2022-10-10 18:19:24,828 INFO [main] TestBase:36 - verifyNewArrivalsDisplayed.......Pass
+2022-10-10 18:19:26,100 INFO [main] TestBase:44 - verifyFirstBookTitle.......Pass
+2022-10-10 18:19:27,348 INFO [main] TestBase:52 - verifySecondBookTitle.......pass
+2022-10-10 18:19:28,623 INFO [main] TestBase:60 -verifyThrirdBookTitle............Pass
+2023-10-16 11:43:57,195 INFO [main] TestBase:70 -chrome browser opened
+2023-10-16 11:43:57,476 INFO [main] TestBase:92 -extent report set
+2023-10-16 11:44:16,775 INFO [main] TestBase:30 - verifyHomePageTitle.......Pass
+2023-10-16 11:44:19,362 INFO [main] TestBase:37 - verifyNewArrivalsDisplayed.......Pass
+2023-10-16 11:44:20,917 INFO [main] TestBase:45 - verifyFirstBookTitle.......Pass
+2023-10-16 11:44:22,689 INFO [main] TestBase:53 - verifySecondBookTitle.......pass
+2023-10-16 11:44:24,240 INFO [main] TestBase:61 -verifyThrirdBookTitle............Pass
+2023-10-16 11:44:27,449 INFO [main] TestBase:35 -verifyloginToMyAccount............Pass
+2023-10-16 11:44:28,943 INFO [main] TestBase:45 -verfiyLogoutToMyAccount............Pass
+2023-10-16 11:48:32,557 INFO [main] TestBase:70 -chrome browser opened
+2023-10-16 11:48:32,806 INFO [main] TestBase:92 -extent report set
+2023-10-16 11:48:51,216 INFO [main] TestBase:30 - verifyHomePageTitle.......Pass
+2023-10-16 11:48:52,543 INFO [main] TestBase:37 - verifyNewArrivalsDisplayed.......Pass
+2023-10-16 11:48:54,154 INFO [main] TestBase:45 - verifyFirstBookTitle.......Pass
+2023-10-16 11:48:55,418 INFO [main] TestBase:53 - verifySecondBookTitle.......pass
+2023-10-16 11:48:56,908 INFO [main] TestBase:61 -verifyThrirdBookTitle............Pass
+2023-10-16 11:48:59,957 INFO [main] TestBase:35 -verifyloginToMyAccount............Pass
+2023-10-16 11:49:01,930 INFO [main] TestBase:45 -verfiyLogoutToMyAccount............Pass
+2023-10-16 12:44:03,957 INFO [main] TestBase:70 -chrome browser opened
+2023-10-16 12:44:04,214 INFO [main] TestBase:92 -extent report set
+2023-10-16 12:44:43,189 INFO [main] TestBase:30 - verifyHomePageTitle.......Pass
+2023-10-16 12:44:44,360 INFO [main] TestBase:37 - verifyNewArrivalsDisplayed.......Pass
+2023-10-16 12:44:45,573 INFO [main] TestBase:45 - verifyFirstBookTitle.......Pass
+2023-10-16 12:44:48,256 INFO [main] TestBase:53 - verifySecondBookTitle.......pass
+2023-10-16 12:44:49,724 INFO [main] TestBase:61 -verifyThrirdBookTitle............Pass
+2023-10-16 12:44:52,497 INFO [main] TestBase:35 -verifyloginToMyAccount............Pass
+2023-10-16 12:44:54,043 INFO [main] TestBase:45 -verfiyLogoutToMyAccount............Pass
+2023-10-16 12:51:22,168 INFO [main] TestBase:70 -chrome browser opened
+2023-10-16 12:51:22,461 INFO [main] TestBase:92 -extent report set
+2023-10-16 12:51:35,419 INFO [main] TestBase:30 - verifyHomePageTitle.......Pass
+2023-10-16 12:51:38,063 INFO [main] TestBase:37 - verifyNewArrivalsDisplayed.......Pass
+2023-10-16 12:51:54,928 INFO [main] TestBase:45 - verifyFirstBookTitle.......Pass
+2023-10-16 12:51:57,423 INFO [main] TestBase:53 - verifySecondBookTitle.......pass
+2023-10-16 12:51:59,923 INFO [main] TestBase:61 -verifyThrirdBookTitle............Pass
+2023-10-16 12:58:45,304 INFO [main] TestBase:70 -chrome browser opened
+2023-10-16 12:58:45,587 INFO [main] TestBase:92 -extent report set
+2023-10-16 12:58:57,939 INFO [main] TestBase:30 - verifyHomePageTitle.......Pass
+2023-10-16 12:58:59,070 INFO [main] TestBase:37 - verifyNewArrivalsDisplayed.......Pass
+2023-10-16 12:59:00,507 INFO [main] TestBase:45 - verifyFirstBookTitle.......Pass
+2023-10-16 12:59:02,810 INFO [main] TestBase:53 - verifySecondBookTitle.......pass
+2023-10-16 12:59:04,735 INFO [main] TestBase:61 -verifyThrirdBookTitle............Pass
+2023-10-16 13:05:09,266 INFO [main] TestBase:70 -chrome browser opened
+2023-10-16 13:05:09,517 INFO [main] TestBase:92 -extent report set
+2023-10-16 13:05:26,197 INFO [main] TestBase:30 - verifyHomePageTitle.......Pass
+2023-10-16 13:05:28,374 INFO [main] TestBase:37 - verifyNewArrivalsDisplayed.......Pass
+2023-10-16 13:05:29,854 INFO [main] TestBase:45 - verifyFirstBookTitle.......Pass
+2023-10-16 13:05:31,335 INFO [main] TestBase:53 - verifySecondBookTitle.......pass
+2023-10-16 13:05:34,444 INFO [main] TestBase:61 -verifyThrirdBookTitle............Pass
+2023-10-16 13:08:01,708 INFO [main] TestBase:70 -chrome browser opened
+2023-10-16 13:08:01,986 INFO [main] TestBase:92 -extent report set
+2023-10-16 13:08:30,805 INFO [main] TestBase:30 - verifyHomePageTitle.......Pass
+2023-10-16 13:08:32,366 INFO [main] TestBase:37 - verifyNewArrivalsDisplayed.......Pass
+2023-10-16 13:08:34,181 INFO [main] TestBase:45 - verifyFirstBookTitle.......Pass
+2023-10-16 13:08:35,460 INFO [main] TestBase:53 - verifySecondBookTitle.......pass
+2023-10-16 13:08:36,754 INFO [main] TestBase:61 -verifyThrirdBookTitle............Pass
+2023-10-16 15:02:19,594 INFO [main] TestBase:70 -chrome browser opened
+2023-10-16 15:02:19,936 INFO [main] TestBase:92 -extent report set
+2023-10-16 15:02:22,990 INFO [main] TestBase:30 - verifyHomePageTitle.......Pass
+2023-10-16 15:02:24,529 INFO [main] TestBase:37 - verifyNewArrivalsDisplayed.......Pass
+2023-10-16 15:02:25,741 INFO [main] TestBase:45 - verifyFirstBookTitle.......Pass
+2023-10-16 15:02:27,207 INFO [main] TestBase:53 - verifySecondBookTitle.......pass
+2023-10-16 15:02:28,560 INFO [main] TestBase:61 -verifyThrirdBookTitle............Pass
+2023-10-16 16:02:21,514 INFO [main] TestBase:70 -chrome browser opened
+2023-10-16 16:02:21,859 INFO [main] TestBase:92 -extent report set
+2023-10-16 16:03:14,510 INFO [main] TestBase:70 -chrome browser opened
+2023-10-16 16:03:14,796 INFO [main] TestBase:92 -extent report set
+2023-10-16 16:03:55,307 INFO [main] TestBase:70 -chrome browser opened
+2023-10-16 16:03:55,624 INFO [main] TestBase:92 -extent report set
+2023-10-16 16:04:54,966 INFO [main] TestBase:70 -chrome browser opened
+2023-10-16 16:04:55,230 INFO [main] TestBase:92 -extent report set
+2023-10-16 16:05:04,344 INFO [main] TestBase:30 - verifyHomePageTitle.......Pass
+2023-10-16 16:05:07,311 INFO [main] TestBase:37 - verifyNewArrivalsDisplayed.......Pass
+2023-10-16 16:05:11,406 INFO [main] TestBase:45 - verifyFirstBookTitle.......Pass
+2023-10-16 16:05:14,350 INFO [main] TestBase:53 - verifySecondBookTitle.......pass
+2023-10-16 16:05:16,958 INFO [main] TestBase:61 -verifyThrirdBookTitle............Pass
+2023-10-24 11:29:12,601 INFO [main] TestBase:70 -chrome browser opened
+2023-10-24 11:29:12,849 INFO [main] TestBase:92 -extent report set
+2023-10-24 11:29:20,196 INFO [main] TestBase:29 - verifyHomePageTitle.......Pass
+2023-10-24 11:29:21,496 INFO [main] TestBase:36 - verifyNewArrivalsDisplayed.......Pass
+2023-10-24 11:29:23,084 INFO [main] TestBase:44 - verifyFirstBookTitle.......Pass
+2023-10-24 11:29:24,708 INFO [main] TestBase:52 - verifySecondBookTitle.......pass
+2023-10-24 11:29:26,083 INFO [main] TestBase:60 -verifyThrirdBookTitle............Pass
+2023-10-24 12:25:14,680 INFO [main] TestBase:96 -extent report set
+2023-10-24 12:27:43,856 INFO [main] TestBase:96 -extent report set
+2023-10-24 12:33:59,339 INFO [main] TestBase:96 -extent report set
+2023-10-24 13:00:04,220 INFO [main] TestBase:74 -chrome browser opened
+2023-10-24 13:00:04,483 INFO [main] TestBase:96 -extent report set
+2023-10-24 13:00:10,879 INFO [main] TestBase:29 - verifyHomePageTitle.......Pass
+2023-10-24 13:00:12,418 INFO [main] TestBase:36 - verifyNewArrivalsDisplayed.......Pass
+2023-10-24 13:00:13,955 INFO [main] TestBase:44 - verifyFirstBookTitle.......Pass
+2023-10-24 13:00:15,164 INFO [main] TestBase:52 - verifySecondBookTitle.......pass
+2023-10-24 13:00:16,268 INFO [main] TestBase:60 -verifyThrirdBookTitle............Pass
+2023-10-24 15:32:39,870 INFO [main] TestBase:74 -chrome browser opened
+2023-10-24 15:32:40,163 INFO [main] TestBase:96 -extent report set
+2023-10-24 15:32:52,358 INFO [main] TestBase:35 -verifyloginToMyAccount............Pass
+2023-10-24 15:32:53,626 INFO [main] TestBase:45 -verfiyLogoutToMyAccount............Pass
+2023-10-24 19:04:49,103 INFO [main] TestBase:96 -extent report set
+2023-10-24 19:28:38,265 INFO [main] TestBase:96 -extent report set
+2023-10-25 09:55:58,125 INFO [main] TestBase:96 -extent report set
+2023-11-24 10:51:45,810 INFO [main] TestBase:99 -extent report set
+2023-12-18 14:17:23,683 INFO [main] TestBase:99 -extent report set
+2024-02-05 15:55:56,645 INFO [main] TestBase:99 -extent report set
+2024-02-21 11:00:01,429 INFO [main] TestBase:99 -extent report set
+2024-02-21 11:06:46,118 INFO [main] TestBase:99 -extent report set
