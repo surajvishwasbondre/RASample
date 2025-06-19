@@ -17,12 +17,12 @@ public class LandingPagesLinksTest {
 
     public static void main(String[] args) throws InterruptedException, IOException {
         
-    	System.setProperty("webdriver.chrome.driver", "D:\\Eclipse Workplace\\RAWebsite\\drivers\\chromedriver.exe");
+    	System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         
         // Path to Excel file
-        String excelFilePath = "D:\\Eclipse Workplace\\RAWebsite\\TestData\\LandingPageAutomation-2.xlsx";
+        String excelFilePath = "TestData/LandingPageAutomation-2.xlsx";
 
          FileInputStream file = new FileInputStream(excelFilePath);
              Workbook workbook = new XSSFWorkbook(file); 
@@ -60,7 +60,7 @@ public class LandingPagesLinksTest {
                     }
                 }
          // Save the updated Excel file
-            FileOutputStream out = new FileOutputStream("D:\\Eclipse Workplace\\RAWebsite\\TestData\\LandingPageAutomation-2.xlsx");
+            FileOutputStream out = new FileOutputStream("TestData/LandingPageAutomation-2.xlsx");
             workbook.write(out);
             out.close();
      
