@@ -13,7 +13,7 @@ public class UrlExtractor {
 
     public static void main(String[] args) {
         
-    	System.setProperty("webdriver.chrome.driver", "D:\\Eclipse Workplace\\RA Website\\drivers\\chromedriver.exe");
+    	System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         String url = "https://realtyassistant.in/";
