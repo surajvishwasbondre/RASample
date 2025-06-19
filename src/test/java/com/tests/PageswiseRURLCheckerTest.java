@@ -16,11 +16,11 @@ public class PageswiseRURLCheckerTest {
     	
     	 StringBuilder csvOutput = new StringBuilder("URL,Status\n"); // CSV header
         
-    	System.setProperty("webdriver.chrome.driver", "D:\\Eclipse Workplace\\RAWebsite\\drivers\\chromedriver.exe");
+    	System.setProperty("webdriver.chrome.driver", "RAWebsite/drivers/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
 
         // Path to Excel file
-        String excelFilePath = "D:\\Eclipse Workplace\\RAWebsite\\TestData\\RA Website Setionwise Url.xlsx";
+        String excelFilePath = "TestData/RA Website Setionwise Url.xlsx";
 
         try (FileInputStream fis = new FileInputStream(excelFilePath);
              Workbook workbook = new XSSFWorkbook(fis)) {
